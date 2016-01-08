@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Loadingplay]]></title>
         <description><![CDATA[Loadingplay]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/loadingplay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 00:31:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 00:42:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/loadingplay/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c5f5974-c1dd-4418-a1ef-64f2c5136973.jpg">]]></description>
+            <link>https://thegrid.ai/loadingplay/ce1ce381-6eb7-411e-b2d5-710e59683334/index.html</link>
+            <guid isPermaLink="false">ce1ce381-6eb7-411e-b2d5-710e59683334</guid>
+            <pubDate>Fri, 08 Jan 2016 00:42:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My first post! ]]></title>
             <description><![CDATA[<article><h1>My first post! </h1><p>esta es una descripcion de mi primer post con the grid! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa1a26653a8450b50207ebaeb5606da50d66216b.jpg"></article>]]></description>
-            <link>undefinedmy-first-post/index.html</link>
+            <link>https://thegrid.ai/loadingplay/my-first-post/index.html</link>
             <guid isPermaLink="false">78af283f-344c-454d-a460-d2f4b1d9d846</guid>
             <pubDate>Fri, 08 Jan 2016 00:31:43 GMT</pubDate>
         </item>
