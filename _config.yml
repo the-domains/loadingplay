@@ -1,7 +1,7 @@
 name: Loadingplay
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.11572
+typography_spectrum: 0.33815
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#ff8075'
     - '#fe1e18'
     - '#1250eb'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.625
   saturation: 0.4375
   rhythmicContrast: 0.3986199162900448
